@@ -1,0 +1,21 @@
+
+.jk{
+    font-stretch: expanded;
+    text-align: center;
+    color: rgba(23, 127, 127, 0.879);
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid white;
+    border-radius: 9px;
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    margin: 0px;
+    padding: 15px 38px;
+    border: 2px solid rgba(242, 234, 234, 0.953);
+    border-radius: 10px;
+}

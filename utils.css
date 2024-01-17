@@ -1,0 +1,43 @@
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.bg-red{
+    background: white;
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.flex-col{
+    flex-direction: column;
+}
+.ok{
+    background-color: red;
+    color: white;
+}
+.op{
+    background-color: black;
+    color: white;
+}
+.mn{
+    background-color: black;
+    color: white;
+}
+.sr{
+    background-color: black;
+    color: white;
+}
+.mj{
+    background-color: black;
+    color: white;
+}
+.oil{
+    background-color: black;
+    color: white;
+}
